@@ -1,0 +1,14 @@
+[
+  {
+    "user_id": 1,
+    "day_start_time": "08:00",
+    "day_end_time": "18:00",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "user_id": 2,
+    "day_start_time": "10:00",
+    "day_end_time": "17:00",
+    "timezone": "Europe/London"
+  }
+]

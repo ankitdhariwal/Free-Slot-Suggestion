@@ -1,0 +1,21 @@
+[
+  {
+    "user_id": 1,
+    "name": "Ankit Dhariwal",
+    "company_name": "dive",
+    "email": "ankit.dhariwal@dive.com"
+  },
+  {
+    "user_id": 2,
+    "name": "Ramesh Dhariwal",
+    "company_name": "Paytm",
+    "email": "ramesh.dhariwal@paytm.com"
+  },
+  {},
+  {
+    "user_id": 4,
+    "name": "Ashu Dhariwal",
+    "company_name": "google",
+    "email": "ashu.dhariwal@google.com"
+  }
+]
