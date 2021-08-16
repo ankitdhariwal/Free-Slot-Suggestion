@@ -28,6 +28,7 @@ UserTimingPreferences - fields  (all the timings are mapped with user_id)
 
 ::: TO RUN THE CODE ::::::
 
+npm insall - will read package.json
 node server.js
 postman collection shared link - https://www.postman.com/collections/34e6e64ed3a88660774e
 
